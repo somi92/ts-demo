@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "01_basics"
+		},
+		{
+			"path": "02_project_modules"
+		},
+		{
+			"path": "03_es2015"
+		},
+		{
+			"path": "04_type_system"
+		},
+		{
+			"path": "05_strict_checks"
+		},
+		{
+			"path": "06_check_js"
+		}
+	],
+	"settings": {}
+}
