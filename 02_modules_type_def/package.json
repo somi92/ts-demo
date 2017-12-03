@@ -1,0 +1,10 @@
+{
+  "name": "02_modules_type_def",
+  "version": "1.0.0",
+  "author": "Milos Stojanovic",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {}
+}
