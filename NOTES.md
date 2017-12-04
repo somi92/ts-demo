@@ -7,7 +7,7 @@
 * Global namespace, file modules (external modules), namespaces (internal modules)
 * Using export/import statements
 * Type vs Variable declaration space
-* Using .d.ts files
+* Using and generating .d.ts files
 
 ### 03 ECMAScript 2015
 
@@ -15,7 +15,14 @@
 * `const` declaration
 * Destructing
 * Spread operator
-* Classes
 * Async Await 
+
+#### Classes
+
+```js
+function __() { this.constructor = d; };
+__.prototype = b.prototype;
+d.prototype = new __();
+```
 
 ### 04 Type system

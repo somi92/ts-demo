@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "author": "Milos Stojanovic",
   "license": "MIT",
+  "scripts": {
+    "clean": "del-cli js -f"
+  },
   "devDependencies": {
+    "del-cli": "^1.1.0",
     "typescript": "^2.6.2"
   },
   "dependencies": {}
