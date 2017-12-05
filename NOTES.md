@@ -13,6 +13,7 @@
 
 * `let` declaration
 * `const` declaration
+* Arrow functions
 * Destructing
 * Spread operator
 * Async Await 
@@ -26,3 +27,4 @@ d.prototype = new __();
 ```
 
 ### 04 Type system
+
