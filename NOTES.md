@@ -8,6 +8,7 @@
 * Using export/import statements
 * Type vs Variable declaration space
 * Using and generating .d.ts files
+* Fetching definitions with @types
 
 ### 03 ECMAScript 2015
 
@@ -28,3 +29,9 @@ d.prototype = new __();
 
 ### 04 Type system
 
+* Interfaces
+* Enums and Tuples
+* Type aliases (structural typing)
+* Intersection and Union types
+* Literal types and Discriminated unions (type guards and control flow based type analysis)
+* Index and Mapped types
