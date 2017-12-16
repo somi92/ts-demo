@@ -32,6 +32,6 @@ d.prototype = new __();
 * Interfaces
 * Enums and Tuples
 * Type aliases (structural typing)
-* Intersection and Union types
-* Literal types and Discriminated unions (type guards and control flow based type analysis)
+* Intersection and Union types, Type guards
+* Literal types and Discriminated unions (control flow based type analysis)
 * Index and Mapped types
