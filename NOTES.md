@@ -34,4 +34,4 @@ d.prototype = new __();
 * Type aliases (structural typing)
 * Intersection and Union types, Type guards
 * Literal types and Discriminated unions (control flow based type analysis)
-* Index and Mapped types
+* Index and Mapped types (Partial, Readonly, Pick, Record)
