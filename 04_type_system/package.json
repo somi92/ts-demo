@@ -2,5 +2,6 @@
   "name": "04_type_system",
   "version": "1.0.0",
   "author": "Milos Stojanovic",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
