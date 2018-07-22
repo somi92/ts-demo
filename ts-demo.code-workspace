@@ -14,9 +14,6 @@
 		},
 		{
 			"path": "05_strict_checks"
-		},
-		{
-			"path": "06_check_js"
 		}
 	],
 	"settings": {}
