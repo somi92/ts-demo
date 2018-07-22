@@ -1,6 +1,6 @@
 interface Person {
     name: string;
-    age: number;
+    age?: number;
 }
 
 function countAdults(persons?: Person[]): number {
@@ -15,6 +15,7 @@ function countAdults(persons?: Person[]): number {
 let c1 = countAdults([
     { name: "John", age: 15 },
     { name: "Alice", age: 19 },
+    null,
     { name: "Tom", age: 21 }
 ]);
-// let c2 = countAdults();
+let c2 = countAdults();
